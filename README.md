@@ -30,3 +30,8 @@ This will launch the GUI window of the alarm clock.
 1. Set the time for the alarm by selecting the hour, minute, and second from the respective dropdown menus.
 2. Click on the "Set Alarm" button to start the alarm.
 3. When the current time matches the set alarm time, a message will be printed on the console and a sound will be played.
+
+### App look like this:
+
+![](/images/main.PNG)
+
